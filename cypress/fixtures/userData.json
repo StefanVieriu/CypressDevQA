@@ -8,5 +8,11 @@
       "surname": "Amar",
       "email": "name11@domain.com",
       "password": "11111111"
+    },
+    "invalidUser": {
+      "badformatemail": "email-invalid",
+      "username": "fakerrr@domain.com",
+      "password": "1a1111111",
+      "shortpass":"short"
     }
   }

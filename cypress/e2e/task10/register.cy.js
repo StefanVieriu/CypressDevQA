@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 import RegistrationPage from '../../pages/registerpage.js';
-describe('cypress test suite for registering a new user account ', () => {
+describe('cypress test suite for registering a new user account POM', () => {
   const reg = new RegistrationPage();
   beforeEach(() => {
         reg.visit()

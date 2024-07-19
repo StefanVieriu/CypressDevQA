@@ -2,10 +2,10 @@
 
 describe('Calculeaza functionality', () => {
     beforeEach(() => {
-          //Navigate to main mage
+         
           cy.visit('https://amprenta.at.assistcloud.services/')
     })
-          //Test if the main page is loaded
+
     it('Calculeaza test end-to-end test case', () => {
           
     

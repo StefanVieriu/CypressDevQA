@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
-import RegistrationPage from '../../pages/registerpage.js';
 
+import RegistrationPage from '../../pages/registerPage';
 describe(' Show password functionality on Register Page POM', () => {
   
   const r = new RegistrationPage();

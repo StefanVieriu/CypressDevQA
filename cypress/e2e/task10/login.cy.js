@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-import Login from '../../pages/login.js';
+import Login from '../../pages/loginPage.js';
 describe('Cy test suite for user login POM', () => {
   const loginPage = new Login();
   beforeEach(() => {
@@ -10,7 +10,7 @@ describe('Cy test suite for user login POM', () => {
     cy.fixture('userData').then((userData) => {
 
     loginPage.clickButton('.button-conect', '/conectare');
-    loginPage.fillLoginForm(userData.validUser.username,userData.validUser.password)
+    loginPage.fillLoginForm(userData.validUser.email,userData.validUser.password)
     loginPage.clickButton('.auth-register-button-try', '/*')
     
     });

@@ -1,11 +1,11 @@
 /// <reference types="cypress" />
-import Login from '../../pages/login.js';
-describe('Cy test suite for user login POM', () => {
-  const l = new Login();
+import RegistrationPage from '../../pages/registerPage.js';
+describe('Test the colors of the login/register form', () => {
+  const l = new RegistrationPage();
   beforeEach(() => {
         l.visit();
   })
-  it('User login with valid data functionality ', function ()  {
+  it('Check colors on registration page ', function ()  {
  
   l.clickButton('.button-conect', '/conectare');
   l.clickButton('.link', '/inregistrare');

@@ -19,13 +19,9 @@ class Login {
       }
     }
 
-    checkLogout() {
+    checkLogOut() {
       cy.get('.auth-user>svg').click();
       cy.url().should('contain', '/conectare');
-    }
-
-    verifyColor(zone,atribute,rgbcolor){
-      cy.get(zone).should('have.css', atribute, rgbcolor);
     }
 
     verifyInvalidCredentials(){

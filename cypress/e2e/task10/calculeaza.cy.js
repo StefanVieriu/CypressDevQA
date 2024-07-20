@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-import CalculeazaPage from '../../pages/calculeazapage';
+import CalculeazaPage from '../../pages/calculeazaPage';
 
 describe('Calculeaza functionality', () => {
   const c = new CalculeazaPage();

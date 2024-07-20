@@ -1,5 +1,6 @@
-import RegistrationPage from '../../pages/registerpage.js';
-describe('cypress test suite for registering a new user account POM', () => {
+import RegistrationPage from '../../pages/registerPage.js';
+
+describe('Test suite for validation registering POM', () => {
   const reg = new RegistrationPage();
   beforeEach(() => {
         reg.visit()
@@ -52,6 +53,8 @@ it('Succesfully registered', () => {
   reg.clickButton('.link', '/inregistrare');
   reg.fillRegistrationForm(userData.registerUser.name,userData.registerUser.surname, email, userData.registerUser.password)
   reg.clickButton('.auth-register-button-try', '/conectare');
+ 
+  
   });
 })
 it('Check for Duplicate Email Registration', () => {

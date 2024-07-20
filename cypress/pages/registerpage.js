@@ -22,6 +22,10 @@ class RegistrationPage {
         cy.get(':nth-child(4) > .input-wrapper > .input-container > .input-field').type(password);
       }
     }
+    checkLogOut() {
+      cy.get('.auth-user>svg').click();
+      cy.url().should('contain', '/conectare');
+    }
 
   clickShowPass(expectedType){
     cy.get('.left-icon>svg').click();
@@ -34,6 +38,10 @@ class RegistrationPage {
 
   notExistError(zone){
     cy.get(zone).should('not.exist')
+    }
+
+    verifyColor(zone,atribute,rgbcolor){
+      cy.get(zone).should('have.css', atribute, rgbcolor);
     }
   }
   export default RegistrationPage;

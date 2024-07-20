@@ -1,12 +1,12 @@
 /// <reference types="cypress" />
 
-describe('cypress test for the style of the login/register form ', () => {
+describe('Test the colors of the login/register form ', () => {
     beforeEach(() => {
        
           cy.visit('https://amprenta.at.assistcloud.services/')
     })
 
-    it('Navigate to Despe noi page', () => {
+    it('Check Colors on Login Page', () => {
 
       cy.get('.button-conect').click()
       cy.url().should('contains','/conectare')

@@ -8,11 +8,14 @@ describe('cypress test suite for registering a new user account POM', () => {
         
   it('Register Succesfully', () => {
     cy.fixture('userData').then((userData) => {
-    reg.clickConectButton()
-    reg.clickRegisterButton()
-    reg.fillRegistrationForm(userData.registerUser.name,userData.registerUser.surname,userData.registerUser.email, userData.registerUser.password)
-    reg.clickRegisterButtonR()
+
+    const randomNum = Math.floor(Math.random() * 10000);
+    const email = `user${randomNum}@${userData.registerUser.email}`;  
+    
+    reg.clickButton('.button-conect', '/conectare');
+    reg.clickButton('.link', '/inregistrare');
+    reg.fillRegistrationForm(userData.registerUser.name,userData.registerUser.surname,email, userData.registerUser.password)
+    reg.clickButton('.auth-register-button-try', '/conectare');
     });
     })
-
 })

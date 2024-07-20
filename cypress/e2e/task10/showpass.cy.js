@@ -1,17 +1,23 @@
 /// <reference types="cypress" />
-import ShowPassPage from '../../pages/showpass.js';
-describe('cypress test for the functionality of “show password icon POM', () => {
-  const s = new ShowPassPage();
+import RegistrationPage from '../../pages/registerpage.js';
+
+describe(' Show password functionality on Register Page POM', () => {
+  
+  const r = new RegistrationPage();
   beforeEach(() => {
-        s.visit()
+        r.visit()
   })
       
-  it('Toggle Password On/off functionality', () => {
-    s.clickConectButton()
-    s.typePassword('parola11')
-    s.clickShowPasswordIcon();
-    s.checkPasswordFieldType('password')
-    s.clickShowPasswordIcon();
-    s.checkPasswordFieldType('text')
+  it('Toggle Show Password On/off functionality', () => {
+    cy.fixture('userData').then((userData) => {
+
+    r.clickButton('.button-conect', '/conectare');
+    r.clickButton('.link', '/inregistrare');
+    r.fillRegistrationForm("","","",userData.registerUser.password)
+    r.clickShowPass('text')
+    r.clickShowPass('password')
+    r.clickShowPass('text')
+
     })
+  })
 })

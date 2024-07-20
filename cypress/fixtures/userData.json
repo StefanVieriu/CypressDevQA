@@ -1,18 +1,20 @@
-{
+
+{ 
+  
     "validUser": {
-      "username": "name1@domain.com",
+      "email": "name1@domain.com",
       "password": "11111111"
     },
     "registerUser": {
       "name": "Don",
       "surname": "Amar",
-      "email": "name11@domain.com",
+      "email": "domain.com",
       "password": "11111111"
     },
     "invalidUser": {
-      "badformatemail": "email-invalid",
-      "username": "fakerrr@domain.com",
+      "badFormatEmail": "email-invalid",
+      "email": "fakerrr@domain.com",
       "password": "1a1111111",
-      "shortpass":"short"
+      "shortPass":"short"
     }
   }

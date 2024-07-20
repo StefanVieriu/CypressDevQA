@@ -7,50 +7,47 @@ describe('Cy test suite for user login POM', () => {
   })
   it('Should login successfully with valid credentials', () => {
     cy.fixture('userData').then((userData) => {
-        loginPage.clickConectButton()
-        loginPage.enterUsername(userData.validUser.username);
-        loginPage.enterPassword(userData.validUser.password);
-        loginPage.clickLoginButton()
-        loginPage.checkLogout();
-      });
+      loginPage.clickButton('.button-conect', '/conectare');
+      loginPage.fillLoginForm(userData.validUser.email,userData.validUser.password)
+      loginPage.clickButton('.auth-register-button-try', '/*')
+      })
   })
 
   it('Should show error with invalid credentials', () => {
     cy.fixture('userData').then((userData) => {
     loginPage.visit();
-    loginPage.clickConectButton();
-    loginPage.enterUsername(userData.invalidUser.username);
-    loginPage.enterPassword(userData.invalidUser.password);
-    loginPage.clickLoginButton();
-    loginPage.verifyinvalidcredentials();
+    loginPage.clickButton('.button-conect', '/conectare')
+    loginPage.fillLoginForm(userData.invalidUser.email,userData.invalidUser.password)
+    loginPage.clickButton('.auth-register-button-try','')
+    loginPage.verifyInvalidCredentials();
   });
 })
 
 it('Should show error when email is empty', () => {
   cy.fixture('userData').then((userData) => {
   loginPage.visit();
-  loginPage.clickConectButton();
-  loginPage.enterPassword(userData.invalidUser.password);
-  loginPage.clickLoginButton();
-  loginPage.verifyinvalidcredentials();
+  loginPage.clickButton('.button-conect', '/conectare')
+  loginPage.fillLoginForm('',userData.validUser.password)
+  loginPage.clickButton('.auth-register-button-try','')
+  loginPage.verifyInvalidCredentials();
 });
 })
 
 it('Should show error when passwword is empty', () => {
   cy.fixture('userData').then((userData) => {
     loginPage.visit();
-    loginPage.clickConectButton();
-    loginPage.enterPassword(userData.invalidUser.username);
-    loginPage.clickLoginButton();
-    loginPage.verifyinvalidcredentials();
+    loginPage.clickButton('.button-conect', '/conectare')
+    loginPage.fillLoginForm(userData.validUser.email,'')
+    loginPage.clickButton('.auth-register-button-try','')
+    loginPage.verifyInvalidCredentials();
   });
 })
 
 
 it('Should show error when both fields are empty', () => {
-  loginPage.visit();
-  loginPage.clickConectButton();
-  loginPage.clickLoginButton();
-  loginPage.verifyinvalidcredentials();
+    loginPage.visit();
+    loginPage.clickButton('.button-conect', '/conectare')
+    loginPage.clickButton('.auth-register-button-try','')
+    loginPage.verifyInvalidCredentials();
 })
 })

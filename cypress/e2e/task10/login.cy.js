@@ -5,13 +5,14 @@ describe('Cy test suite for user login POM', () => {
   beforeEach(() => {
         loginPage.visit();
   })
+
   it('User login with valid data functionality ', function ()  {
     cy.fixture('userData').then((userData) => {
-    loginPage.clickConectButton();
-    loginPage.enterUsername(userData.validUser.username);
-    loginPage.enterPassword(userData.validUser.password);
-    loginPage.clickLoginButton();
-    loginPage.checkLogout();
-  });
+
+    loginPage.clickButton('.button-conect', '/conectare');
+    loginPage.fillLoginForm(userData.validUser.username,userData.validUser.password)
+    loginPage.clickButton('.auth-register-button-try', '/*')
+    
+    });
   })
 })

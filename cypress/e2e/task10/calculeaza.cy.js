@@ -60,7 +60,7 @@ describe('Calculeaza functionality', () => {
     c.clickButton('[style="display: flex; flex-direction: column;"] > :nth-child(2) > .button-try','')
     c.clickButton('.button-try','')
     c.validateArrowsDisabled();
-    c.selectType('1');
+    c.selectType('0');
     c.clickQuestion('button.transport-question_transportQuestion_DownArrow__EF\\+9C', 'be.visible')
 
     c.selectType('1');

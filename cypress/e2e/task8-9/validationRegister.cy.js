@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('validation tests for registering a new user ', () => {
+describe('Tests for validation registering form', () => {
   beforeEach(() => {
        
         cy.visit('https://amprenta.at.assistcloud.services/')

@@ -28,6 +28,9 @@ class Login {
       cy.get('.error-wrapper > span').should('contain', 'Adresa de email sau parola nu este corecta');
       cy.url().should('contain','/conectare')
     }
+    checkElementShow(selector, visbility){
+      cy.get(selector).should(visbility)
+    }
   }
   
   export default Login;

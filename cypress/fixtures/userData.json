@@ -1,20 +1,18 @@
-
-{ 
-  
-    "validUser": {
-      "email": "name1@domain.com",
-      "password": "11111111"
-    },
-    "registerUser": {
-      "name": "Don",
-      "surname": "Amar",
-      "email": "domain.com",
-      "password": "11111111"
-    },
-    "invalidUser": {
-      "badFormatEmail": "email-invalid",
-      "email": "fakerrr@domain.com",
-      "password": "1a1111111",
-      "shortPass":"short"
-    }
+{
+  "validUser": {
+    "email": "name1@domain.com",
+    "password": "11111111"
+  },
+  "registerUser": {
+    "name": "Don",
+    "surname": "Amar",
+    "email": "domain.com",
+    "password": "11111111"
+  },
+  "invalidUser": {
+    "badFormatEmail": "email-invalid",
+    "email": "fakerrr@domain.com",
+    "password": "1a1111111",
+    "shortPass": "short"
   }
+}

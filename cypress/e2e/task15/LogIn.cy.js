@@ -34,10 +34,8 @@ describe('Login API Test - Empty Payload', function() {
             expect(response.status).to.be.oneOf([400, 401, 422]); 
             expect(response.headers['content-type']).to.include('application/json');
             if (Object.keys(response.body).length === 0) {
-                cy.log('Response body is empty.');
                 expect(response.body).to.be.empty; 
             } else {
-                cy.log('Response body is not empty. Check for error details.');
                 expect(response.body).to.be.an('object'); 
                 expect(response.body).to.have.property('error_msg');
                 expect(response.body.error_msg).to.include('email is missing, password is missing');

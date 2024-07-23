@@ -1,0 +1,1650 @@
+[
+    {
+        "id": 0,
+        "name": "Adâncata, Suceava"
+    },
+    {
+        "id": 1,
+        "name": "Arbore, Suceava"
+    },
+    {
+        "id": 2,
+        "name": "Baia, Suceava"
+    },
+    {
+        "id": 3,
+        "name": "Bilca, Suceava"
+    },
+    {
+        "id": 4,
+        "name": "Bogdăneşti, Suceava"
+    },
+    {
+        "id": 5,
+        "name": "Boroaia, Suceava"
+    },
+    {
+        "id": 6,
+        "name": "Bosanci, Suceava"
+    },
+    {
+        "id": 7,
+        "name": "Botoşana, Suceava"
+    },
+    {
+        "id": 8,
+        "name": "Breaza, Suceava"
+    },
+    {
+        "id": 9,
+        "name": "Brodina, Suceava"
+    },
+    {
+        "id": 10,
+        "name": "Broşteni, Suceava"
+    },
+    {
+        "id": 11,
+        "name": "Buneşti, Suceava"
+    },
+    {
+        "id": 12,
+        "name": "Bălcăuţi, Suceava"
+    },
+    {
+        "id": 13,
+        "name": "Cacica, Suceava"
+    },
+    {
+        "id": 14,
+        "name": "Cajvana, Suceava"
+    },
+    {
+        "id": 15,
+        "name": "Calafindeşti, Suceava"
+    },
+    {
+        "id": 16,
+        "name": "Capu Câmpului, Suceava"
+    },
+    {
+        "id": 17,
+        "name": "Ciocăneşti, Suceava"
+    },
+    {
+        "id": 18,
+        "name": "Ciprian Porumbescu, Suceava"
+    },
+    {
+        "id": 19,
+        "name": "Comăneşti, Suceava"
+    },
+    {
+        "id": 20,
+        "name": "Cornu Luncii, Suceava"
+    },
+    {
+        "id": 21,
+        "name": "Coşna, Suceava"
+    },
+    {
+        "id": 22,
+        "name": "Crucea, Suceava"
+    },
+    {
+        "id": 23,
+        "name": "Câmpulung Moldovenesc, Suceava"
+    },
+    {
+        "id": 24,
+        "name": "Cârlibaba, Suceava"
+    },
+    {
+        "id": 25,
+        "name": "Dolhasca, Suceava"
+    },
+    {
+        "id": 26,
+        "name": "Dorna Candrenilor, Suceava"
+    },
+    {
+        "id": 27,
+        "name": "Dorna-Arini, Suceava"
+    },
+    {
+        "id": 28,
+        "name": "Dorneşti, Suceava"
+    },
+    {
+        "id": 29,
+        "name": "Drăgoieşti, Suceava"
+    },
+    {
+        "id": 30,
+        "name": "Drăguşeni, Suceava"
+    },
+    {
+        "id": 31,
+        "name": "Dumbrăveni, Suceava"
+    },
+    {
+        "id": 32,
+        "name": "Dărmăneşti, Suceava"
+    },
+    {
+        "id": 33,
+        "name": "Forăşti, Suceava"
+    },
+    {
+        "id": 34,
+        "name": "Frasin, Suceava"
+    },
+    {
+        "id": 35,
+        "name": "Frumosu, Suceava"
+    },
+    {
+        "id": 36,
+        "name": "Frătăuţii Noi, Suceava"
+    },
+    {
+        "id": 37,
+        "name": "Frătăuţii Vechi, Suceava"
+    },
+    {
+        "id": 38,
+        "name": "Fundu Moldovei, Suceava"
+    },
+    {
+        "id": 39,
+        "name": "Fântâna Mare, Suceava"
+    },
+    {
+        "id": 40,
+        "name": "Fântânele, Suceava"
+    },
+    {
+        "id": 41,
+        "name": "Fălticeni, Suceava"
+    },
+    {
+        "id": 42,
+        "name": "Grămeşti, Suceava"
+    },
+    {
+        "id": 43,
+        "name": "Grăniceşti, Suceava"
+    },
+    {
+        "id": 44,
+        "name": "Gura Humorului, Suceava"
+    },
+    {
+        "id": 45,
+        "name": "Gălăneşti, Suceava"
+    },
+    {
+        "id": 46,
+        "name": "Horodnic de Sus, Suceava"
+    },
+    {
+        "id": 47,
+        "name": "Horodniceni, Suceava"
+    },
+    {
+        "id": 48,
+        "name": "Hănţeşti, Suceava"
+    },
+    {
+        "id": 49,
+        "name": "Iacobeni, Suceava"
+    },
+    {
+        "id": 50,
+        "name": "Iaslovăţ, Suceava"
+    },
+    {
+        "id": 51,
+        "name": "Ipoteşti, Suceava"
+    },
+    {
+        "id": 52,
+        "name": "Izvoarele Sucevei, Suceava"
+    },
+    {
+        "id": 53,
+        "name": "Liteni, Suceava"
+    },
+    {
+        "id": 54,
+        "name": "Marginea, Suceava"
+    },
+    {
+        "id": 55,
+        "name": "Milişăuţi, Suceava"
+    },
+    {
+        "id": 56,
+        "name": "Mitocu Dragomirnei, Suceava"
+    },
+    {
+        "id": 57,
+        "name": "Moldova-Suliţa, Suceava"
+    },
+    {
+        "id": 58,
+        "name": "Moldoviţa, Suceava"
+    },
+    {
+        "id": 59,
+        "name": "Muşeniţa, Suceava"
+    },
+    {
+        "id": 60,
+        "name": "Mălini, Suceava"
+    },
+    {
+        "id": 61,
+        "name": "Mănăstirea Humorului, Suceava"
+    },
+    {
+        "id": 62,
+        "name": "Ostra, Suceava"
+    },
+    {
+        "id": 63,
+        "name": "Panaci, Suceava"
+    },
+    {
+        "id": 64,
+        "name": "Poiana Stampei, Suceava"
+    },
+    {
+        "id": 65,
+        "name": "Pojorâta, Suceava"
+    },
+    {
+        "id": 66,
+        "name": "Preuteşti, Suceava"
+    },
+    {
+        "id": 67,
+        "name": "Putna, Suceava"
+    },
+    {
+        "id": 68,
+        "name": "Pârteştii de Jos, Suceava"
+    },
+    {
+        "id": 69,
+        "name": "Păltinoasa, Suceava"
+    },
+    {
+        "id": 70,
+        "name": "Lunca, Suceava"
+    },
+    {
+        "id": 71,
+        "name": "Pătrăuţi, Suceava"
+    },
+    {
+        "id": 72,
+        "name": "Râşca, Suceava"
+    },
+    {
+        "id": 73,
+        "name": "Rădăuţi, Suceava"
+    },
+    {
+        "id": 74,
+        "name": "Rădăşeni, Suceava"
+    },
+    {
+        "id": 75,
+        "name": "Sadova, Suceava"
+    },
+    {
+        "id": 76,
+        "name": "Salcea, Suceava"
+    },
+    {
+        "id": 77,
+        "name": "Satu Mare, Suceava"
+    },
+    {
+        "id": 78,
+        "name": "Siminicea, Suceava"
+    },
+    {
+        "id": 79,
+        "name": "Siret, Suceava"
+    },
+    {
+        "id": 80,
+        "name": "Slatina, Suceava"
+    },
+    {
+        "id": 81,
+        "name": "Solca, Suceava"
+    },
+    {
+        "id": 82,
+        "name": "Straja, Suceava"
+    },
+    {
+        "id": 83,
+        "name": "Stroieşti, Suceava"
+    },
+    {
+        "id": 84,
+        "name": "Stulpicani, Suceava"
+    },
+    {
+        "id": 85,
+        "name": "Suceava, Suceava"
+    },
+    {
+        "id": 86,
+        "name": "Suceviţa, Suceava"
+    },
+    {
+        "id": 87,
+        "name": "Todireşti, Suceava"
+    },
+    {
+        "id": 88,
+        "name": "Udeşti, Suceava"
+    },
+    {
+        "id": 89,
+        "name": "Ulma, Suceava"
+    },
+    {
+        "id": 90,
+        "name": "Vadu Moldovei, Suceava"
+    },
+    {
+        "id": 91,
+        "name": "Valea Moldovei, Suceava"
+    },
+    {
+        "id": 92,
+        "name": "Vama, Suceava"
+    },
+    {
+        "id": 93,
+        "name": "Vatra Dornei, Suceava"
+    },
+    {
+        "id": 94,
+        "name": "Vatra Moldoviţei, Suceava"
+    },
+    {
+        "id": 95,
+        "name": "Vereşti, Suceava"
+    },
+    {
+        "id": 96,
+        "name": "Vicovu de Jos, Suceava"
+    },
+    {
+        "id": 97,
+        "name": "Vicovu de Sus, Suceava"
+    },
+    {
+        "id": 98,
+        "name": "Volovăţ, Suceava"
+    },
+    {
+        "id": 99,
+        "name": "Vultureşti, Suceava"
+    },
+    {
+        "id": 100,
+        "name": "Zamostea, Suceava"
+    },
+    {
+        "id": 101,
+        "name": "Zvoriştea, Suceava"
+    },
+    {
+        "id": 102,
+        "name": "Şcheia, Suceava"
+    },
+    {
+        "id": 103,
+        "name": "Şerbăuţi, Suceava"
+    },
+    {
+        "id": 104,
+        "name": "Călugăreni, Suceava"
+    },
+    {
+        "id": 105,
+        "name": "Feteşti, Suceava"
+    },
+    {
+        "id": 106,
+        "name": "Bodnăreni, Suceava"
+    },
+    {
+        "id": 107,
+        "name": "Clit, Suceava"
+    },
+    {
+        "id": 108,
+        "name": "Bogata, Suceava"
+    },
+    {
+        "id": 109,
+        "name": "Gropeni, Suceava"
+    },
+    {
+        "id": 110,
+        "name": "Negostina, Suceava"
+    },
+    {
+        "id": 111,
+        "name": "Bărăşti, Suceava"
+    },
+    {
+        "id": 112,
+        "name": "Giuleşti, Suceava"
+    },
+    {
+        "id": 113,
+        "name": "Moişa, Suceava"
+    },
+    {
+        "id": 114,
+        "name": "Săcuţa, Suceava"
+    },
+    {
+        "id": 115,
+        "name": "Cumpărătura, Suceava"
+    },
+    {
+        "id": 116,
+        "name": "Breaza de Sus, Suceava"
+    },
+    {
+        "id": 117,
+        "name": "Pârâu Negrei, Suceava"
+    },
+    {
+        "id": 118,
+        "name": "Brodina de Jos, Suceava"
+    },
+    {
+        "id": 119,
+        "name": "Cununschi, Suceava"
+    },
+    {
+        "id": 120,
+        "name": "Dubiuşca, Suceava"
+    },
+    {
+        "id": 121,
+        "name": "Ehreşte, Suceava"
+    },
+    {
+        "id": 122,
+        "name": "Falcău, Suceava"
+    },
+    {
+        "id": 123,
+        "name": "Norocu, Suceava"
+    },
+    {
+        "id": 124,
+        "name": "Paltin, Suceava"
+    },
+    {
+        "id": 125,
+        "name": "Sadău, Suceava"
+    },
+    {
+        "id": 126,
+        "name": "Zalomestra, Suceava"
+    },
+    {
+        "id": 127,
+        "name": "Cotârgaşi, Suceava"
+    },
+    {
+        "id": 128,
+        "name": "Dârmoxa, Suceava"
+    },
+    {
+        "id": 129,
+        "name": "Frasin, Suceava"
+    },
+    {
+        "id": 130,
+        "name": "Holda, Suceava"
+    },
+    {
+        "id": 131,
+        "name": "Holdiţa, Suceava"
+    },
+    {
+        "id": 132,
+        "name": "Hăleasa, Suceava"
+    },
+    {
+        "id": 133,
+        "name": "Lungeni, Suceava"
+    },
+    {
+        "id": 134,
+        "name": "Neagra, Suceava"
+    },
+    {
+        "id": 135,
+        "name": "Pietroasa, Suceava"
+    },
+    {
+        "id": 136,
+        "name": "Petia, Suceava"
+    },
+    {
+        "id": 137,
+        "name": "Podeni, Suceava"
+    },
+    {
+        "id": 138,
+        "name": "Unceşti, Suceava"
+    },
+    {
+        "id": 139,
+        "name": "Şes, Suceava"
+    },
+    {
+        "id": 140,
+        "name": "Maidan, Suceava"
+    },
+    {
+        "id": 141,
+        "name": "Pârteştii de Sus, Suceava"
+    },
+    {
+        "id": 142,
+        "name": "Runcu, Suceava"
+    },
+    {
+        "id": 143,
+        "name": "Soloneţu Nou, Suceava"
+    },
+    {
+        "id": 144,
+        "name": "Codru, Suceava"
+    },
+    {
+        "id": 145,
+        "name": "Botoşaniţa Mare, Suceava"
+    },
+    {
+        "id": 146,
+        "name": "Cârlibaba Nouă, Suceava"
+    },
+    {
+        "id": 147,
+        "name": "Iedu, Suceava"
+    },
+    {
+        "id": 148,
+        "name": "Valea Stânei, Suceava"
+    },
+    {
+        "id": 149,
+        "name": "Şesuri, Suceava"
+    },
+    {
+        "id": 150,
+        "name": "Ţibău, Suceava"
+    },
+    {
+        "id": 151,
+        "name": "Botoş, Suceava"
+    },
+    {
+        "id": 152,
+        "name": "Braşca, Suceava"
+    },
+    {
+        "id": 153,
+        "name": "Bălăceana, Suceava"
+    },
+    {
+        "id": 154,
+        "name": "Ilişeşti, Suceava"
+    },
+    {
+        "id": 155,
+        "name": "Humoreni, Suceava"
+    },
+    {
+        "id": 156,
+        "name": "Brăieşti, Suceava"
+    },
+    {
+        "id": 157,
+        "name": "Băişeşti, Suceava"
+    },
+    {
+        "id": 158,
+        "name": "Dumbrava, Suceava"
+    },
+    {
+        "id": 159,
+        "name": "Păiseni, Suceava"
+    },
+    {
+        "id": 160,
+        "name": "Sasca Mare, Suceava"
+    },
+    {
+        "id": 161,
+        "name": "Sasca Mică, Suceava"
+    },
+    {
+        "id": 162,
+        "name": "Sasca Nouă, Suceava"
+    },
+    {
+        "id": 163,
+        "name": "Şinca, Suceava"
+    },
+    {
+        "id": 164,
+        "name": "Podu Coşnei, Suceava"
+    },
+    {
+        "id": 165,
+        "name": "Româneşti, Suceava"
+    },
+    {
+        "id": 166,
+        "name": "Teşna, Suceava"
+    },
+    {
+        "id": 167,
+        "name": "Valea Bancului, Suceava"
+    },
+    {
+        "id": 168,
+        "name": "Chiril, Suceava"
+    },
+    {
+        "id": 169,
+        "name": "Cojoci, Suceava"
+    },
+    {
+        "id": 170,
+        "name": "Satu Mare, Suceava"
+    },
+    {
+        "id": 171,
+        "name": "Călineşti, Suceava"
+    },
+    {
+        "id": 172,
+        "name": "Călineşti-Vasilache, Suceava"
+    },
+    {
+        "id": 173,
+        "name": "Dănila, Suceava"
+    },
+    {
+        "id": 174,
+        "name": "Măriţei, Suceava"
+    },
+    {
+        "id": 175,
+        "name": "Măriţeia Mică, Suceava"
+    },
+    {
+        "id": 176,
+        "name": "Budeni, Suceava"
+    },
+    {
+        "id": 177,
+        "name": "Gulia, Suceava"
+    },
+    {
+        "id": 178,
+        "name": "Poiana, Suceava"
+    },
+    {
+        "id": 179,
+        "name": "Poienari, Suceava"
+    },
+    {
+        "id": 180,
+        "name": "Probota, Suceava"
+    },
+    {
+        "id": 181,
+        "name": "Siliştea Nouă, Suceava"
+    },
+    {
+        "id": 182,
+        "name": "Valea Poienei, Suceava"
+    },
+    {
+        "id": 183,
+        "name": "Dolheştii Mici, Suceava"
+    },
+    {
+        "id": 184,
+        "name": "Dolheştii-Mari, Suceava"
+    },
+    {
+        "id": 185,
+        "name": "Valea Bourei, Suceava"
+    },
+    {
+        "id": 186,
+        "name": "Dealu Floreni, Suceava"
+    },
+    {
+        "id": 187,
+        "name": "Poiana Negrii, Suceava"
+    },
+    {
+        "id": 188,
+        "name": "Cozăneşti, Suceava"
+    },
+    {
+        "id": 189,
+        "name": "Gheorghiţeni, Suceava"
+    },
+    {
+        "id": 190,
+        "name": "Ortoaia, Suceava"
+    },
+    {
+        "id": 191,
+        "name": "Rusca, Suceava"
+    },
+    {
+        "id": 192,
+        "name": "Sunători, Suceava"
+    },
+    {
+        "id": 193,
+        "name": "Iaz, Suceava"
+    },
+    {
+        "id": 194,
+        "name": "Berchişeşti, Suceava"
+    },
+    {
+        "id": 195,
+        "name": "Corlata, Suceava"
+    },
+    {
+        "id": 196,
+        "name": "Lucăceşti, Suceava"
+    },
+    {
+        "id": 197,
+        "name": "Măzănăeşti, Suceava"
+    },
+    {
+        "id": 198,
+        "name": "Broşteni, Suceava"
+    },
+    {
+        "id": 199,
+        "name": "Gara Leu, Suceava"
+    },
+    {
+        "id": 200,
+        "name": "Sălăgeni, Suceava"
+    },
+    {
+        "id": 201,
+        "name": "Şoldăneşti, Suceava"
+    },
+    {
+        "id": 202,
+        "name": "Ţarna Mare, Suceava"
+    },
+    {
+        "id": 203,
+        "name": "Cotu Băii, Suceava"
+    },
+    {
+        "id": 204,
+        "name": "Praxia, Suceava"
+    },
+    {
+        "id": 205,
+        "name": "Spătăreşti, Suceava"
+    },
+    {
+        "id": 206,
+        "name": "Băneşti, Suceava"
+    },
+    {
+        "id": 207,
+        "name": "Cotu Dobei, Suceava"
+    },
+    {
+        "id": 208,
+        "name": "Slobozia, Suceava"
+    },
+    {
+        "id": 209,
+        "name": "Stamate, Suceava"
+    },
+    {
+        "id": 210,
+        "name": "Antoceni, Suceava"
+    },
+    {
+        "id": 211,
+        "name": "Boura, Suceava"
+    },
+    {
+        "id": 212,
+        "name": "Manolea, Suceava"
+    },
+    {
+        "id": 213,
+        "name": "Oniceni, Suceava"
+    },
+    {
+        "id": 214,
+        "name": "Roşiori, Suceava"
+    },
+    {
+        "id": 215,
+        "name": "Ruşi, Suceava"
+    },
+    {
+        "id": 216,
+        "name": "Uideşti, Suceava"
+    },
+    {
+        "id": 217,
+        "name": "Ţoleşti, Suceava"
+    },
+    {
+        "id": 218,
+        "name": "Bucşoaia, Suceava"
+    },
+    {
+        "id": 219,
+        "name": "Doroteia, Suceava"
+    },
+    {
+        "id": 220,
+        "name": "Plutoniţa, Suceava"
+    },
+    {
+        "id": 221,
+        "name": "Costişa, Suceava"
+    },
+    {
+        "id": 222,
+        "name": "Măneuţi, Suceava"
+    },
+    {
+        "id": 223,
+        "name": "Deia, Suceava"
+    },
+    {
+        "id": 224,
+        "name": "Dragoşa, Suceava"
+    },
+    {
+        "id": 225,
+        "name": "Botuş, Suceava"
+    },
+    {
+        "id": 226,
+        "name": "Botuşel, Suceava"
+    },
+    {
+        "id": 227,
+        "name": "Braniştea, Suceava"
+    },
+    {
+        "id": 228,
+        "name": "Colacu, Suceava"
+    },
+    {
+        "id": 229,
+        "name": "Delniţa, Suceava"
+    },
+    {
+        "id": 230,
+        "name": "Deluţ, Suceava"
+    },
+    {
+        "id": 231,
+        "name": "Obcina, Suceava"
+    },
+    {
+        "id": 232,
+        "name": "Plai, Suceava"
+    },
+    {
+        "id": 233,
+        "name": "Smida Ungurenilor, Suceava"
+    },
+    {
+        "id": 234,
+        "name": "Hurjuieni, Suceava"
+    },
+    {
+        "id": 235,
+        "name": "Voitinel, Suceava"
+    },
+    {
+        "id": 236,
+        "name": "Botoşaniţa Mică, Suceava"
+    },
+    {
+        "id": 237,
+        "name": "Bălineşti, Suceava"
+    },
+    {
+        "id": 238,
+        "name": "Rudeşti, Suceava"
+    },
+    {
+        "id": 239,
+        "name": "Verbia, Suceava"
+    },
+    {
+        "id": 240,
+        "name": "Dumbrava, Suceava"
+    },
+    {
+        "id": 241,
+        "name": "Gura Solcii, Suceava"
+    },
+    {
+        "id": 242,
+        "name": "Iacobeşti, Suceava"
+    },
+    {
+        "id": 243,
+        "name": "Româneşti, Suceava"
+    },
+    {
+        "id": 244,
+        "name": "Slobozia Sucevei, Suceava"
+    },
+    {
+        "id": 245,
+        "name": "Voroneţ, Suceava"
+    },
+    {
+        "id": 246,
+        "name": "Arţari, Suceava"
+    },
+    {
+        "id": 247,
+        "name": "Bereşti, Suceava"
+    },
+    {
+        "id": 248,
+        "name": "Horodnic de Jos, Suceava"
+    },
+    {
+        "id": 249,
+        "name": "Boteşti, Suceava"
+    },
+    {
+        "id": 250,
+        "name": "Brădăţel, Suceava"
+    },
+    {
+        "id": 251,
+        "name": "Mihăieşti, Suceava"
+    },
+    {
+        "id": 252,
+        "name": "Rotopăneşti, Suceava"
+    },
+    {
+        "id": 253,
+        "name": "Mestecăniş, Suceava"
+    },
+    {
+        "id": 254,
+        "name": "Lisaura, Suceava"
+    },
+    {
+        "id": 255,
+        "name": "Tişăuţi, Suceava"
+    },
+    {
+        "id": 256,
+        "name": "Bobeica, Suceava"
+    },
+    {
+        "id": 257,
+        "name": "Brodina, Suceava"
+    },
+    {
+        "id": 258,
+        "name": "Corni, Suceava"
+    },
+    {
+        "id": 259,
+        "name": "Rotunda, Suceava"
+    },
+    {
+        "id": 260,
+        "name": "Roşcani, Suceava"
+    },
+    {
+        "id": 261,
+        "name": "Siliştea, Suceava"
+    },
+    {
+        "id": 262,
+        "name": "Vercicani, Suceava"
+    },
+    {
+        "id": 263,
+        "name": "Iesle, Suceava"
+    },
+    {
+        "id": 264,
+        "name": "Poiana Mărului, Suceava"
+    },
+    {
+        "id": 265,
+        "name": "Pâraie, Suceava"
+    },
+    {
+        "id": 266,
+        "name": "Văleni-Stânişoara, Suceava"
+    },
+    {
+        "id": 267,
+        "name": "Pleşa, Suceava"
+    },
+    {
+        "id": 268,
+        "name": "Poiana Micului, Suceava"
+    },
+    {
+        "id": 269,
+        "name": "Bădeuţi, Suceava"
+    },
+    {
+        "id": 270,
+        "name": "Gara, Suceava"
+    },
+    {
+        "id": 271,
+        "name": "Lunca, Suceava"
+    },
+    {
+        "id": 272,
+        "name": "Dragomirna, Suceava"
+    },
+    {
+        "id": 273,
+        "name": "Lipoveni, Suceava"
+    },
+    {
+        "id": 274,
+        "name": "Mitocaşi, Suceava"
+    },
+    {
+        "id": 275,
+        "name": "Bulai, Suceava"
+    },
+    {
+        "id": 276,
+        "name": "Frumoasa, Suceava"
+    },
+    {
+        "id": 277,
+        "name": "Groapa Vlădichii, Suceava"
+    },
+    {
+        "id": 278,
+        "name": "Liteni, Suceava"
+    },
+    {
+        "id": 279,
+        "name": "Moara Carp, Suceava"
+    },
+    {
+        "id": 280,
+        "name": "Moara Nica, Suceava"
+    },
+    {
+        "id": 281,
+        "name": "Vornicenii Mari, Suceava"
+    },
+    {
+        "id": 282,
+        "name": "Vornicenii Mici, Suceava"
+    },
+    {
+        "id": 283,
+        "name": "Benia, Suceava"
+    },
+    {
+        "id": 284,
+        "name": "Argel, Suceava"
+    },
+    {
+        "id": 285,
+        "name": "Demacuşa, Suceava"
+    },
+    {
+        "id": 286,
+        "name": "Raşca, Suceava"
+    },
+    {
+        "id": 287,
+        "name": "Baineţ, Suceava"
+    },
+    {
+        "id": 288,
+        "name": "Bănceşti, Suceava"
+    },
+    {
+        "id": 289,
+        "name": "Climăuţi, Suceava"
+    },
+    {
+        "id": 290,
+        "name": "Vicşani, Suceava"
+    },
+    {
+        "id": 291,
+        "name": "Văşcăuţi, Suceava"
+    },
+    {
+        "id": 292,
+        "name": "Tărnicioara, Suceava"
+    },
+    {
+        "id": 293,
+        "name": "Capu Codrului, Suceava"
+    },
+    {
+        "id": 294,
+        "name": "Catrinari, Suceava"
+    },
+    {
+        "id": 295,
+        "name": "Coverca, Suceava"
+    },
+    {
+        "id": 296,
+        "name": "Drăgoiasa, Suceava"
+    },
+    {
+        "id": 297,
+        "name": "Glodu, Suceava"
+    },
+    {
+        "id": 298,
+        "name": "Păltiniş, Suceava"
+    },
+    {
+        "id": 299,
+        "name": "Deleni, Suceava"
+    },
+    {
+        "id": 300,
+        "name": "Varvata, Suceava"
+    },
+    {
+        "id": 301,
+        "name": "Vârfu Dealului, Suceava"
+    },
+    {
+        "id": 302,
+        "name": "Căsoi, Suceava"
+    },
+    {
+        "id": 303,
+        "name": "Dornişoara, Suceava"
+    },
+    {
+        "id": 304,
+        "name": "Pilugani, Suceava"
+    },
+    {
+        "id": 305,
+        "name": "Prăleni, Suceava"
+    },
+    {
+        "id": 306,
+        "name": "Teşna, Suceava"
+    },
+    {
+        "id": 307,
+        "name": "Tătaru, Suceava"
+    },
+    {
+        "id": 308,
+        "name": "Valea Putnei, Suceava"
+    },
+    {
+        "id": 309,
+        "name": "Arghira, Suceava"
+    },
+    {
+        "id": 310,
+        "name": "Bahna Arin, Suceava"
+    },
+    {
+        "id": 311,
+        "name": "Basarabi, Suceava"
+    },
+    {
+        "id": 312,
+        "name": "Huşi, Suceava"
+    },
+    {
+        "id": 313,
+        "name": "Hârtop, Suceava"
+    },
+    {
+        "id": 314,
+        "name": "Leucuşeşti, Suceava"
+    },
+    {
+        "id": 315,
+        "name": "Gura Putnei, Suceava"
+    },
+    {
+        "id": 316,
+        "name": "Lămăşeni, Suceava"
+    },
+    {
+        "id": 317,
+        "name": "Pocoleni, Suceava"
+    },
+    {
+        "id": 318,
+        "name": "Buda, Suceava"
+    },
+    {
+        "id": 319,
+        "name": "Dumbrăveni, Suceava"
+    },
+    {
+        "id": 320,
+        "name": "Jahalia, Suceava"
+    },
+    {
+        "id": 321,
+        "name": "Slătioara, Suceava"
+    },
+    {
+        "id": 322,
+        "name": "Mereni, Suceava"
+    },
+    {
+        "id": 323,
+        "name": "Plopeni, Suceava"
+    },
+    {
+        "id": 324,
+        "name": "Prelipca, Suceava"
+    },
+    {
+        "id": 325,
+        "name": "Văratec, Suceava"
+    },
+    {
+        "id": 326,
+        "name": "Gura Haitii, Suceava"
+    },
+    {
+        "id": 327,
+        "name": "Neagra Şarului, Suceava"
+    },
+    {
+        "id": 328,
+        "name": "Plaiu Şarului, Suceava"
+    },
+    {
+        "id": 329,
+        "name": "Sărişor, Suceava"
+    },
+    {
+        "id": 330,
+        "name": "Sărişoru Mare, Suceava"
+    },
+    {
+        "id": 331,
+        "name": "Şaru Bucovinei, Suceava"
+    },
+    {
+        "id": 332,
+        "name": "Şarul Dornei, Suceava"
+    },
+    {
+        "id": 333,
+        "name": "Ţibeni, Suceava"
+    },
+    {
+        "id": 334,
+        "name": "Florinta, Suceava"
+    },
+    {
+        "id": 335,
+        "name": "Mihoveni, Suceava"
+    },
+    {
+        "id": 336,
+        "name": "Sfântu Ilie, Suceava"
+    },
+    {
+        "id": 337,
+        "name": "Trei Movile, Suceava"
+    },
+    {
+        "id": 338,
+        "name": "Călineşti, Suceava"
+    },
+    {
+        "id": 339,
+        "name": "Grigoreşti, Suceava"
+    },
+    {
+        "id": 340,
+        "name": "Mănăstioara, Suceava"
+    },
+    {
+        "id": 341,
+        "name": "Pădureni, Suceava"
+    },
+    {
+        "id": 342,
+        "name": "Găineşti, Suceava"
+    },
+    {
+        "id": 343,
+        "name": "Herla, Suceava"
+    },
+    {
+        "id": 344,
+        "name": "Poieni-Solca, Suceava"
+    },
+    {
+        "id": 345,
+        "name": "Vâlcelele, Suceava"
+    },
+    {
+        "id": 346,
+        "name": "Zahareşti, Suceava"
+    },
+    {
+        "id": 347,
+        "name": "Gemenea, Suceava"
+    },
+    {
+        "id": 348,
+        "name": "Negrileasa, Suceava"
+    },
+    {
+        "id": 349,
+        "name": "Slătioara, Suceava"
+    },
+    {
+        "id": 350,
+        "name": "Vadu Negrilesei, Suceava"
+    },
+    {
+        "id": 351,
+        "name": "Voievodeasa, Suceava"
+    },
+    {
+        "id": 352,
+        "name": "Costâna, Suceava"
+    },
+    {
+        "id": 353,
+        "name": "Părhăuţi, Suceava"
+    },
+    {
+        "id": 354,
+        "name": "Soloneţ, Suceava"
+    },
+    {
+        "id": 355,
+        "name": "Sârghieşti, Suceava"
+    },
+    {
+        "id": 356,
+        "name": "Chilişeni, Suceava"
+    },
+    {
+        "id": 357,
+        "name": "Luncuşoara, Suceava"
+    },
+    {
+        "id": 358,
+        "name": "Mănăstioara, Suceava"
+    },
+    {
+        "id": 359,
+        "name": "Plăvălari, Suceava"
+    },
+    {
+        "id": 360,
+        "name": "Poieni-Suceava, Suceava"
+    },
+    {
+        "id": 361,
+        "name": "Racova, Suceava"
+    },
+    {
+        "id": 362,
+        "name": "Reuseni, Suceava"
+    },
+    {
+        "id": 363,
+        "name": "Ruşii-Mănăstioara, Suceava"
+    },
+    {
+        "id": 364,
+        "name": "Securiceni, Suceava"
+    },
+    {
+        "id": 365,
+        "name": "Ştirbăţ, Suceava"
+    },
+    {
+        "id": 366,
+        "name": "Costileva, Suceava"
+    },
+    {
+        "id": 367,
+        "name": "Lupcina, Suceava"
+    },
+    {
+        "id": 368,
+        "name": "Măgura, Suceava"
+    },
+    {
+        "id": 369,
+        "name": "Nisipitu, Suceava"
+    },
+    {
+        "id": 370,
+        "name": "Ciumuleşti, Suceava"
+    },
+    {
+        "id": 371,
+        "name": "Cămârzani, Suceava"
+    },
+    {
+        "id": 372,
+        "name": "Dumbrăviţa, Suceava"
+    },
+    {
+        "id": 373,
+        "name": "Ioneasa, Suceava"
+    },
+    {
+        "id": 374,
+        "name": "Mesteceni, Suceava"
+    },
+    {
+        "id": 375,
+        "name": "Movileni, Suceava"
+    },
+    {
+        "id": 376,
+        "name": "Nigoteşti, Suceava"
+    },
+    {
+        "id": 377,
+        "name": "Mironu, Suceava"
+    },
+    {
+        "id": 378,
+        "name": "Molid, Suceava"
+    },
+    {
+        "id": 379,
+        "name": "Prisaca Dornei, Suceava"
+    },
+    {
+        "id": 380,
+        "name": "Strâmtura, Suceava"
+    },
+    {
+        "id": 381,
+        "name": "Argestru, Suceava"
+    },
+    {
+        "id": 382,
+        "name": "Roşu, Suceava"
+    },
+    {
+        "id": 383,
+        "name": "Todireni, Suceava"
+    },
+    {
+        "id": 384,
+        "name": "Ciumârna, Suceava"
+    },
+    {
+        "id": 385,
+        "name": "Paltinu, Suceava"
+    },
+    {
+        "id": 386,
+        "name": "Bursuceni, Suceava"
+    },
+    {
+        "id": 387,
+        "name": "Corocăieşti, Suceava"
+    },
+    {
+        "id": 388,
+        "name": "Hancea, Suceava"
+    },
+    {
+        "id": 389,
+        "name": "Bivolăria, Suceava"
+    },
+    {
+        "id": 390,
+        "name": "Burla, Suceava"
+    },
+    {
+        "id": 391,
+        "name": "Giurgeşti, Suceava"
+    },
+    {
+        "id": 392,
+        "name": "Hreaţca, Suceava"
+    },
+    {
+        "id": 393,
+        "name": "Jacota, Suceava"
+    },
+    {
+        "id": 394,
+        "name": "Mereşti, Suceava"
+    },
+    {
+        "id": 395,
+        "name": "Osoi, Suceava"
+    },
+    {
+        "id": 396,
+        "name": "Pleşeşti, Suceava"
+    },
+    {
+        "id": 397,
+        "name": "Valea Glodului, Suceava"
+    },
+    {
+        "id": 398,
+        "name": "Badragi, Suceava"
+    },
+    {
+        "id": 399,
+        "name": "Ciomârtan, Suceava"
+    },
+    {
+        "id": 400,
+        "name": "Cojocăreni, Suceava"
+    },
+    {
+        "id": 401,
+        "name": "Corpaci, Suceava"
+    },
+    {
+        "id": 402,
+        "name": "Nicani, Suceava"
+    },
+    {
+        "id": 403,
+        "name": "Răuţeni, Suceava"
+    },
+    {
+        "id": 404,
+        "name": "Tăuteşti, Suceava"
+    },
+    {
+        "id": 405,
+        "name": "Buda, Suceava"
+    },
+    {
+        "id": 406,
+        "name": "Dealu, Suceava"
+    },
+    {
+        "id": 407,
+        "name": "Poiana, Suceava"
+    },
+    {
+        "id": 408,
+        "name": "Slobozia, Suceava"
+    },
+    {
+        "id": 409,
+        "name": "Stânca, Suceava"
+    },
+    {
+        "id": 410,
+        "name": "Stâncuţa, Suceava"
+    },
+    {
+        "id": 411,
+        "name": "Şerbăneşti, Suceava"
+    }
+]

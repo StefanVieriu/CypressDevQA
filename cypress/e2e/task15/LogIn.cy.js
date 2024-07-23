@@ -11,10 +11,6 @@ describe('Login API Test', function() {
             body: loginPayload,
             failOnStatusCode: false 
         }).then((response) => {
-            cy.log('Status Code:', response.status);
-            cy.log('Response Body:', JSON.stringify(response.body));
-            console.log('Status Code:', response.status);
-            console.log('Response Body:', response.body);
             expect(response.status).to.be.oneOf([201, 202]);
             expect(response.headers['content-type']).to.include('application/json');
             expect(response.body).to.be.an('object');
@@ -35,10 +31,6 @@ describe('Login API Test - Empty Payload', function() {
             body: {}, 
             failOnStatusCode: false 
         }).then((response) => {
-            cy.log('Status Code:', response.status);
-            cy.log('Response Body:', JSON.stringify(response.body));
-            console.log('Status Code:', response.status);
-            console.log('Response Body:', response.body);
             expect(response.status).to.be.oneOf([400, 401, 422]); 
             expect(response.headers['content-type']).to.include('application/json');
             if (Object.keys(response.body).length === 0) {
